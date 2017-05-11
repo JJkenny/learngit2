@@ -8,3 +8,5 @@ do something in dev branch.
 master changes
 i am feature change,
 dev changes.
+
+i still have changes.
